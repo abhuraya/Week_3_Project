@@ -15,7 +15,7 @@ function charCheck(x){//main function is called if prompt input fails numbering 
     }else if (x < 8){
       page();
     }
-}
+  }
 
 //character checking function is called
 charCheck(characters);
